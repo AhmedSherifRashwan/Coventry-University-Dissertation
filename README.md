@@ -4,7 +4,7 @@
 > **Institution**: Coventry University  
 > **Supervisor**: Mr. Terry Richards  
 > **Date**: April 2025  
-> **Module**: 6047CEM – Final Year Dissertation  
+> **Module**: 6047CEM – Cyber Security Project  
 
 ---
 
